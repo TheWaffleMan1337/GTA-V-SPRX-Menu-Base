@@ -1,0 +1,11 @@
+﻿  structures.cpp
+C:\Users\PC User\Desktop\Menus\PS3\GTA\ParishedSPRX\ParishedSPRX\utility.h(22,6): warning 1700: class "CUtility" has virtual functions but non-virtual destructor
+  
+C:\Users\PC User\Desktop\Menus\PS3\GTA\ParishedSPRX\ParishedSPRX\hooking.h(4,6): warning 1700: class "CHooking" has virtual functions but non-virtual destructor
+  
+C:\Users\PC User\Desktop\Menus\PS3\GTA\ParishedSPRX\ParishedSPRX\structures.h(30,7): warning 1700: struct "WaitSystem" has virtual functions but non-virtual destructor
+  
+C:\Users\PC User\Desktop\Menus\PS3\GTA\ParishedSPRX\ParishedSPRX\structures.h(37,7): warning 1700: struct "Self" has virtual functions but non-virtual destructor
+  
+  ParishedSPRX.vcxproj -> C:\Users\PC User\Desktop\Menus\PS3\GTA\ParishedSPRX\PS3_Debug\ParishedSPRX.sprx
+  Cannot find the expected PRX Stub Library file: cellPrx_ParishedSPRX_stub.a
